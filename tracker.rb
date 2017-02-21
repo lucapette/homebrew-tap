@@ -1,9 +1,9 @@
 class Tracker < Formula
   desc "Track your activities!"
   homepage "https://github.com/lucapette/tracker"
-  url "https://github.com/lucapette/tracker/releases/download/v0.0.4/tracker_Darwin_x86_64.tar.gz"
-  version "0.0.4"
-  sha256 "4cf868a400e9bb03a9da5ab37f1cafd03c41abddfabc5d071bed4b45e4cfd504"
+  url "https://github.com/lucapette/tracker/releases/download/v0.1.0/tracker_Darwin_x86_64.tar.gz"
+  version "0.1.0"
+  sha256 "ef4e40f9c309b3819e0c8a2cf0cf8679b7e7c5691a4b60bb3b437cb874fc7497"
 
   def install
     bin.install "tracker"
