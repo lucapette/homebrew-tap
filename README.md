@@ -7,6 +7,7 @@ of my projects.
 It currently containts the Formulae for:
 
 - [tracker](https://github.com/lucapette/tracker)
+- [fakedata](https://github.com/lucapette/data)
 
 # License
 
