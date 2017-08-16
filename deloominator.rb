@@ -1,9 +1,9 @@
 class Deloominator < Formula
   desc ""
   homepage "https://github.com/lucapette/deloominator"
-  url "https://github.com/lucapette/deloominator/releases/download/v0.0.1/deloominator_Darwin_x86_64.tar.gz"
-  version "0.0.1"
-  sha256 "f2de4cfc0fed15c5b981443dca8dc6b99e3f95f33bb9cc95cc9600febaa34cc7"
+  url "https://github.com/lucapette/deloominator/releases/download/v0.1.0/deloominator_Darwin_x86_64.tar.gz"
+  version "0.1.0"
+  sha256 "ff3d968417d875104d261b021d7391df0d3b43e4059825d43d985662654842bf"
 
   def install
     bin.install "deloominator"
