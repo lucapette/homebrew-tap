@@ -4,10 +4,11 @@ The repository for the [brew
 tap](https://github.com/Homebrew/brew/blob/master/docs/brew-tap.md) formulae
 of my projects.
 
-It currently containts the Formulae for:
+It containts the Formulae for:
 
+- [deloominator](https://github.com/lucapette/deloominator)
+- [fakedata](https://github.com/lucapette/fakedata)
 - [tracker](https://github.com/lucapette/tracker)
-- [fakedata](https://github.com/lucapette/data)
 
 # License
 
