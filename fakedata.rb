@@ -1,9 +1,9 @@
 class Fakedata < Formula
   desc ""
   homepage "https://github.com/lucapette/fakedata"
-  url "https://github.com/lucapette/fakedata/releases/download/v1.1.1/fakedata_Darwin_x86_64.tar.gz"
-  version "1.1.1"
-  sha256 "9504acfd8d8c9cf07bae0ad86e5db0f646ba0375d769006dbab18f4c29352998"
+  url "https://github.com/lucapette/fakedata/releases/download/v1.1.2/fakedata_1.1.2_darwin_amd64.tar.gz"
+  version "1.1.2"
+  sha256 "9faba6da0e322efa5422057a6a820f311adf39d16dffb022af74b77a6227d3f9"
 
   def install
     bin.install "fakedata"
