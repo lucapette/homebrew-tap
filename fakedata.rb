@@ -5,11 +5,11 @@
 class Fakedata < Formula
   desc ""
   homepage "https://github.com/lucapette/fakedata"
-  version "1.4.0"
+  version "1.5.0"
 
   on_macos do
-    url "https://github.com/lucapette/fakedata/releases/download/v1.4.0/fakedata_1.4.0_darwin_amd64.tar.gz"
-    sha256 "0b138c86443cc4c7d2d81549adf4b8b447cc7844edc25600e98d05c77bd521d6"
+    url "https://github.com/lucapette/fakedata/releases/download/v1.5.0/fakedata_1.5.0_darwin_amd64.tar.gz"
+    sha256 "c12c3f3464d4c40c2f2b984c6f5b203dce8fa20552c6150740fd310b6e2abc7a"
 
     def install
       bin.install "fakedata"
@@ -28,8 +28,8 @@ class Fakedata < Formula
 
   on_linux do
     if Hardware::CPU.intel?
-      url "https://github.com/lucapette/fakedata/releases/download/v1.4.0/fakedata_1.4.0_linux_amd64.tar.gz"
-      sha256 "d357ed38acff533f97ec09656ca6ee49a1850d86af664cbb102fcb04e84def4f"
+      url "https://github.com/lucapette/fakedata/releases/download/v1.5.0/fakedata_1.5.0_linux_amd64.tar.gz"
+      sha256 "d18899fa9f1a2bb1bb374c35d6d7eb14a39d2a83756f44681d24933f2dc74e5e"
 
       def install
         bin.install "fakedata"
